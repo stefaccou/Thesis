@@ -1,5 +1,6 @@
-This repository contains the research code used for my Master Thesis:
-Word Sense Discrimination in French Transformer Models
+# Word Sense Discrimination in French Transformer Models
+This repository contains the research code used for my master thesis.
+
 
 The notebooks are labelled for each different experiment.
 Experiment 1.1 and 1.2 concern the clustering of contextualized embeddings, using an approach inspired by Yamada et al.'s (2021) method for semantic frame induction.
